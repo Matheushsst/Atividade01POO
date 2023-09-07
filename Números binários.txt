@@ -1,0 +1,27 @@
+Números binários
+
+000 
+001 primeira linha alterna a cada 1 casa, dobra pra segunda em diante
+010
+011
+100
+101
+110
+111
+
+40/2
+0 20/2
+  0 10/2
+    0 5/2
+      1 2/2
+        0 1 de baixo para cima = 40(base decimal) = 101000(binário)
+
+10/2
+0 5/2
+  1 2/2
+    0 1 10(base decimal) = 1010 (binário)
+
+128 | 64 | 32 | 16 | 8 | 4 | 2 | 1   maior número = 255
+0   | 1  | 0  | 0  | 0 | 0 | 0 | 1
+
+dica: por exemplo, se eu quiser o número 64 = 128 | 64 | 32 | 16 | 8 | 4 | 2 | 1

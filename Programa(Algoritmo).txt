@@ -1,0 +1,9 @@
+Programa(Algoritmo)
+
+Entrada
+
+Processamento
+
+Saida
+
+Tipos de variaveis

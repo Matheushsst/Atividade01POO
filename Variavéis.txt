@@ -1,0 +1,8 @@
+Variavéis
+
+Certas linguagens não se importam muito com o tipo, como por exemplo o python, mas as que se "Importam" são chamadas de "fortemente tipadas" como java, c++, php
+
+char = caracteres
+int = número inteiro
+float = 32 bit
+double = float dobrado(mais recomendado double)

@@ -1,0 +1,18 @@
+Java
+
+Pq Java? Linguagem de Mercado, cresce todo ano, paga bem etc...
+
+Java é bom pra criar softwares
+
+Public class main{
+
+Public quer dizer que a classe(class) é pública, vísivel para todas as outras, main é o nome da classe e { significa começo/início (} quer dizer fim)
+
+Public static void main(string[]args){ para programas executaveis
+System.out.println("Olá mundo!!!");
+
+static = não vai ter mudança
+void = não tem retorno
+sempre main(tudo minusculo)
+
+} = tudo que estiver aqui dentro pertence ao metódo main
